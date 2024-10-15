@@ -1,0 +1,11 @@
+Layout/LeadingCommentSpace:
+  Enabled: false
+
+Layout/SpaceInsideArrayLiteralBrackets:
+  Enabled: false
+
+Layout/TrailingWhitespace:
+  Enabled: false
+
+Style/PercentLiteralDelimiters:
+  Enabled: false
